@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: ¡Hola, mundo!	</title>
-	<atom:link href="https://coquetornado.github.io/indiegram/2022/07/24/hola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://coquetornado.github.io/indiegram/2022/07/24/hola-mundo/</link>
+	<atom:link href="https://www.edicionvinilo.com/2022/07/24/hola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.edicionvinilo.com/2022/07/24/hola-mundo/</link>
 	<description></description>
 	<lastBuildDate>Sun, 24 Jul 2022 02:31:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>https://coquetornado.github.io/indiegram/2022/07/24/hola-mundo/#comment-1</link>
+		<link>https://www.edicionvinilo.com/2022/07/24/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Sun, 24 Jul 2022 02:31:10 +0000</pubDate>
-		<guid isPermaLink="false">https://coquetornado.github.io/indiegram/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://www.edicionvinilo.com/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, esto es un comentario.
 Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
