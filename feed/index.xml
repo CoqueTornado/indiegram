@@ -12,7 +12,7 @@
 	<atom:link href="https://www.edicionvinilo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.edicionvinilo.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 24 Jul 2022 02:31:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Aug 2022 08:16:00 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,56 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
-		<title>¡Hola, mundo!</title>
-		<link>https://www.edicionvinilo.com/2022/07/24/hola-mundo/</link>
-					<comments>https://www.edicionvinilo.com/2022/07/24/hola-mundo/#comments</comments>
+		<title>El año del Tigre</title>
+		<link>https://www.edicionvinilo.com/2022/08/15/elementor-324/</link>
+					<comments>https://www.edicionvinilo.com/2022/08/15/elementor-324/#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
-		<pubDate>Sun, 24 Jul 2022 02:31:10 +0000</pubDate>
+		<pubDate>Mon, 15 Aug 2022 08:00:49 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">https://www.edicionvinilo.com/?p=1</guid>
+		<guid isPermaLink="false">https://www.edicionvinilo.com/?p=324</guid>
 
-					<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!]]></description>
-										<content:encoded><![CDATA[
-<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
-]]></content:encoded>
+					<description><![CDATA[«Que a veces no tenemos otra opción Lo mejor es decidir si aún nos tenemos»]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="324" class="elementor elementor-324">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-cec9626 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cec9626" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0d78702" data-id="0d78702" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1650147 elementor-widget elementor-widget-image" data-id="1650147" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="768" src="https://www.edicionvinilo.com/wp-content/uploads/2022/08/FOTO-APARTAMENTOS-EL-ANO-DEL-TIGRE-1200x900-1-1024x768.webp" class="attachment-large size-large" alt="" loading="lazy" srcset="https://www.edicionvinilo.com/wp-content/uploads/2022/08/FOTO-APARTAMENTOS-EL-ANO-DEL-TIGRE-1200x900-1-1024x768.webp 1024w, https://www.edicionvinilo.com/wp-content/uploads/2022/08/FOTO-APARTAMENTOS-EL-ANO-DEL-TIGRE-1200x900-1-300x225.webp 300w, https://www.edicionvinilo.com/wp-content/uploads/2022/08/FOTO-APARTAMENTOS-EL-ANO-DEL-TIGRE-1200x900-1-768x576.webp 768w, https://www.edicionvinilo.com/wp-content/uploads/2022/08/FOTO-APARTAMENTOS-EL-ANO-DEL-TIGRE-1200x900-1.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-256911c" data-id="256911c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1a44b1b elementor-widget elementor-widget-image" data-id="1a44b1b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://www.edicionvinilo.com/wp-content/uploads/elementor/thumbs/ab67616d0000b273b1527d68f1519976c610b05a-ptahvqpnu72z2ahr4hv5sj59hdox1kafav9jlye3pc.webp" title="ab67616d0000b273b1527d68f1519976c610b05a" alt="ab67616d0000b273b1527d68f1519976c610b05a" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-eb418bc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eb418bc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a182ab7" data-id="a182ab7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-aa32dbc elementor-widget elementor-widget-text-editor" data-id="aa32dbc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<div class="ujudUb" style="margin-bottom: 12px; ; font-family: arial, sans-serif; font-size: 14px; background-color: #202124;"><h1 class="ujudUb"><em>«Que a veces no tenemos otra opción</em><br /><em>Lo mejor es decidir si aún nos tenemos»</em></h1></div><div> </div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
-					<wfw:commentRss>https://www.edicionvinilo.com/2022/07/24/hola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>https://www.edicionvinilo.com/2022/08/15/elementor-324/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
